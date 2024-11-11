@@ -6,9 +6,9 @@ export default function Footer() {
                     className="container flex flex-col flex-wrap px-5 py-24 mx-auto md:items-center lg:items-start md:flex-row md:flex-no-wrap">
                     <div className="flex-shrink-0 w-64 mx-auto text-center md:mx-0 md:text-left">
                         <a className="flex items-center justify-center font-medium text-gray-900 title-font md:justify-start">
-                            <span className="ml-2 text-2xl font-pacifico">SaaSTribe</span>
+                            <span className="ml-2 text-2xl font-pacifico text-white">SaaSTribe</span>
                         </a>
-                        <p className="mt-2 text-sm text-gray-500">Design, Code and Ship!</p>
+                        <p className="mt-2 text-sm text-white font-montserrat">Ready to help launch your project along with our well-designed pages</p>
                         <div className="mt-4">
                             <span className="inline-flex justify-center mt-2 sm:ml-auto sm:mt-0 sm:justify-start">
                                 <a className="text-gray-500 cursor-pointer hover:text-gray-700">
@@ -46,66 +46,81 @@ export default function Footer() {
                     </div>
                     <div className="flex flex-wrap flex-grow mt-10 -mb-10 text-center md:pl-20 md:mt-0 md:text-left">
                         <div className="w-full px-4 lg:w-1/4 md:w-1/2">
-                            <h2 className="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Home</h2>
+                            <h2 className="mb-3 text-sm font-medium tracking-widest text-white uppercase title-font">Home</h2>
                             <nav className="mb-10 list-none">
                                 <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Company</a>
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">SaaS</a>
                                 </li>
                                 <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Account</a>
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Event</a>
                                 </li>
                                 <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Get Help</a>
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Mobile App</a>
+                                </li>
+                                <li className="mt-3">
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Desktop App</a>
+                                </li>
+                                <li className="mt-3">
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Startup</a>
                                 </li>
                             </nav>
                         </div>
                         <div className="w-full px-4 lg:w-1/4 md:w-1/2">
-                            <h2 className="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Company</h2>
+                            <h2 className="mb-3 text-sm font-medium tracking-widest text-white uppercase title-font">Company</h2>
                             <nav className="mb-10 list-none">
                                 <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Contact Support</a>
-                                </li>
-                                <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Help Resources</a>
-                                </li>
-                                <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Release Updates</a>
-                                </li>
-                            </nav>
-                        </div>
-                        <div className="w-full px-4 lg:w-1/4 md:w-1/2">
-                            <h2 className="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Account
-                            </h2>
-                            <nav className="mb-10 list-none">
-                                <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Terms &amp; Privacy</a>
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">About us</a>
                                 </li>
                                 <li className="mt-3">
                                     <a className="text-gray-500 cursor-pointer hover:text-gray-900">Pricing</a>
                                 </li>
                                 <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">FAQ</a>
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Careers</a>
+                                </li>
+                                <li className="mt-3">
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Contact</a>
+                                </li>
+                                <li className="mt-3">
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Blog</a>
                                 </li>
                             </nav>
                         </div>
                         <div className="w-full px-4 lg:w-1/4 md:w-1/2">
-                            <h2 className="mb-3 text-sm font-medium tracking-widest text-gray-900 uppercase title-font">Get Help</h2>
+                            <h2 className="mb-3 text-sm font-medium tracking-widest text-white uppercase title-font">Account
+                            </h2>
                             <nav className="mb-10 list-none">
                                 <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Send a Message</a>
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Sign up</a>
                                 </li>
                                 <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Request a Quote</a>
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Sign in</a>
                                 </li>
                                 <li className="mt-3">
-                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">+123-456-7890</a>
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Forget Password</a>
+                                </li>
+                            </nav>
+                        </div>
+                        <div className="w-full px-4 lg:w-1/4 md:w-1/2">
+                            <h2 className="mb-3 text-sm font-medium tracking-widest text-white uppercase title-font">Get Help</h2>
+                            <nav className="mb-10 list-none">
+                                <li className="mt-3">
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Developers Help</a>
+                                </li>
+                                <li className="mt-3">
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Docs</a>
+                                </li>
+                                <li className="mt-3">
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Free Training</a>
+                                </li>
+                                <li className="mt-3">
+                                    <a className="text-gray-500 cursor-pointer hover:text-gray-900">Contact Sales</a>
                                 </li>
                             </nav>
                         </div>
                     </div>
                 </div>
-                    <div className="container px-5 py-4 mx-auto">
-                        <p className="text-sm text-gray-700 capitalize xl:text-left">© SaaSTribe 2020 </p>
+                    <div className="container px-5 py-2 mx-auto">
+                        <p className="text-sm text-gray-700 capitalize xl:text-left font-montserrat">© SaaSTribe 2020 </p>
                     </div>
             </footer>
 

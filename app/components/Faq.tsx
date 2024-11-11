@@ -2,10 +2,10 @@ export default function Faq() {
     return (
         // Faq component
     <div className="min-h-screen bg-gray-950 p-4 rounded-lg shadow-xl  font-montserrat">
-        <h4 className="text-xl font-bold text-gray-800 tracking-widest uppercase text-center">FAQ</h4>
-        <h2 className="text-center text-white">What you should know</h2>
-        <p className="text-center text-white text-sm mt-4">check out the key features of our template.They can help you create your first-class-project</p>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-2 px-1 mt-2">
+        <h4 className="text-xl font-bold text-blue-600 tracking-widest uppercase text-center">FAQ</h4>
+        <h2 className="text-center text-white text-4xl">What you should know</h2>
+        <p className="text-center text-white text-xl mt-12">check out the key features of our template.They can help you create your first-class-project</p>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 px-18 mt-14 text-wrap justify-center">
             <div className="flex space-x-3 mt-2">
                 <div>
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-12 w-12 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -17,7 +17,7 @@ export default function Faq() {
                 <div>
                     <h4 className="text-xl font-bold text-gray-700">Lorem ipsum dolor sit amet?</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
-                    <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
+                    
                 </div>
             </div>
             
@@ -30,7 +30,7 @@ export default function Faq() {
                 <div>
                     <h4 className="text-xl font-bold text-gray-700">Consectetur adipisicing elit?</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
-                    <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
+                    
                 </div>
             </div>
 
@@ -43,7 +43,7 @@ export default function Faq() {
                 <div>
                     <h4 className="text-xl font-bold text-gray-700">Neque eos, dignissimos provident reiciendis debitis?</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
-                    <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
+                    
                 </div>
             </div>
 
@@ -56,7 +56,7 @@ export default function Faq() {
                 <div>
                     <h4 className="text-xl font-bold text-gray-700">Repudiandae commodi perferendis et itaque?</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
-                    <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
+                    
                 </div>
             </div>
 
@@ -69,7 +69,7 @@ export default function Faq() {
                 <div>
                     <h4 className="text-xl font-bold text-gray-700">Similique fugiat cumque?</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
-                    <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
+                    
                 </div>
             </div>
 
@@ -82,7 +82,7 @@ export default function Faq() {
                 <div>
                     <h4 className="text-xl font-bold text-gray-700">Impedit iusto vitae dolorum, nostrum fugit?</h4>
                     <p className="text-gray-600 my-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis repudiandae commodi perferendis et itaque, similique fugiat cumque impedit iusto vitae dolorum. Nostrum, fugit!</p>
-                    <a href="#" className="text-blue-600 hover:text-blue-800 hover:underline capitalize" title="Read More">Read More</a>
+                    
                 </div>
             </div>
         </div>

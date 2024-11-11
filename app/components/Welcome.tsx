@@ -81,6 +81,7 @@ export default function Welcome() {
           {/* Left Column - Hero Content */}
           <div className="lg:w-5/12 lg:py-12">
             <div className="lg:sticky lg:top-8">
+            <h4 className="text-xl font-bold text-blue-600 tracking-widest uppercase text-left">WELCOME</h4>
               <h1 className="text-4xl font-bold text-white mb-4">
                 Ready to help you in <br />your projects!
               </h1>
