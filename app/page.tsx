@@ -22,16 +22,33 @@ export default function Page() {
         image={<FaUserAlt size={64} />}
       />
       <FeatureTwo
-        title="Connect the tools you already use"
-        description="Our extensive developer might also strike your fancy."
-        icons={
-          <>
-            <FaUserAlt size={64} />
-            <FaUserAlt size={64} />
-            <FaUserAlt size={64} />
-          </>
-        }
-        />
+    title="Connect the tools you already use"
+    description="Our extensive developer tools might also strike your fancy"
+    icons={
+        <>
+            <div className="p-8 bg-gray-900 rounded-lg hover:bg-gray-800 transition-all">
+                <FaUserAlt className="w-12 h-12 text-blue-600 mb-6" />
+                <h3 className="text-xl font-bold text-white mb-4">Feature Title</h3>
+                <p className="text-gray-400">Feature description goes here explaining the benefits</p>
+            </div>
+            <div className="p-8 bg-gray-900 rounded-lg hover:bg-gray-800 transition-all">
+                <FaUserAlt className="w-12 h-12 text-blue-600 mb-6" />
+                <h3 className="text-xl font-bold text-white mb-4">Feature Title</h3>
+                <p className="text-gray-400">Feature description goes here explaining the benefits</p>
+            </div>
+            <div className="p-8 bg-gray-900 rounded-lg hover:bg-gray-800 transition-all">
+                <FaUserAlt className="w-12 h-12 text-blue-600 mb-6" />
+                <h3 className="text-xl font-bold text-white mb-4">Feature Title</h3>
+                <p className="text-gray-400">Feature description goes here explaining the benefits</p>
+            </div>
+            <div className="p-8 bg-gray-900 rounded-lg hover:bg-gray-800 transition-all">
+                <FaUserAlt className="w-12 h-12 text-blue-600 mb-6" />
+                <h3 className="text-xl font-bold text-white mb-4">Feature Title</h3>
+                <p className="text-gray-400">Feature description goes here explaining the benefits</p>
+            </div>
+        </>
+    }
+/>
         <FeatureThree
         title="Deliver instant answers with knowledge base"
         description="Create and publish answers for customers and reduce your customer support volume by at least 20%. Happier customers,fewer convesations-everyone wins."
