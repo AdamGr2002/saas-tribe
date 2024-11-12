@@ -5,27 +5,27 @@ export default function Partners() {
     const partners = [
         {
             name: 'Slack',
-            logo: '/logos/slack-logo.svg',
+            logo: '/logos/slack.svg',
         },
         {
             name: 'Sass',
-            logo: '/logos/sass-logo.svg',
+            logo: '/logos/sass-1.svg',
         },
         {
             name: 'Netflix',
-            logo: '/logos/netflix-logo.svg',
+            logo: '/logos/netflix-3.svg',
         },
         {
             name: 'Spotify',
-            logo: '/logos/spotify-logo.svg',
+            logo: '/logos/logo-spotify.svg',
         },
         {
             name: 'Buzzfeed',
-            logo: '/logos/buzzfeed-logo.svg',
+            logo: '/logos/buzzfeed.svg',
         },
         {
             name: 'Target',
-            logo: '/logos/target-logo.svg',
+            logo: '/logos/target-7.svg',
         },
     ];
     return (

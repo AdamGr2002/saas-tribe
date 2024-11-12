@@ -21,7 +21,7 @@ export default function Faq() {
                         </svg>
                     </div>
                     <div>
-                        <h4 className="text-xl font-bold text-white mb-4">Lorem ipsum dolor sit amet?</h4>
+                        <h4 className="text-xl font-bold text-white mb-4">Cross Platform</h4>
                         <p className="text-gray-400 leading-relaxed">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis.
                         </p>
@@ -36,7 +36,7 @@ export default function Faq() {
                         </svg>
                     </div>
                     <div>
-                        <h4 className="text-xl font-bold text-white mb-4">How does the pricing work?</h4>
+                        <h4 className="text-xl font-bold text-white mb-4">Customize it</h4>
                         <p className="text-gray-400 leading-relaxed">
                             Flexible pricing options available to suit your needs. Choose from monthly or annual plans with different feature sets.
                         </p>
@@ -51,7 +51,7 @@ export default function Faq() {
                         </svg>
                     </div>
                     <div>
-                        <h4 className="text-xl font-bold text-white mb-4">What about data security?</h4>
+                        <h4 className="text-xl font-bold text-white mb-4">Documentation</h4>
                         <p className="text-gray-400 leading-relaxed">
                             We implement industry-standard security measures to protect your data. Regular backups and encryption ensure safety.
                         </p>
@@ -66,7 +66,7 @@ export default function Faq() {
                         </svg>
                     </div>
                     <div>
-                        <h4 className="text-xl font-bold text-white mb-4">Can I cancel my subscription?</h4>
+                        <h4 className="text-xl font-bold text-white mb-4">Chat Bots</h4>
                         <p className="text-gray-400 leading-relaxed">
                             Yes, you can cancel your subscription at any time. No long-term contracts required, flexible terms available.
                         </p>
@@ -80,7 +80,7 @@ export default function Faq() {
                 </svg>
             </div>
             <div>
-                <h4 className="text-xl font-bold text-white mb-4">What&apos;s your uptime guarantee?</h4>
+                <h4 className="text-xl font-bold text-white mb-4">Knowledge Base</h4>
                 <p className="text-gray-400 leading-relaxed">
                     We maintain a 99.9% uptime guarantee with continuous monitoring and instant incident response for maximum reliability.
                 </p>
@@ -95,7 +95,7 @@ export default function Faq() {
                 </svg>
             </div>
             <div>
-                <h4 className="text-xl font-bold text-white mb-4">Do you offer technical support?</h4>
+                <h4 className="text-xl font-bold text-white mb-4">24/7 Support</h4>
                 <p className="text-gray-400 leading-relaxed">
                     24/7 technical support available via chat, email, and phone. Our expert team is always ready to help.
                 </p>

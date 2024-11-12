@@ -57,7 +57,7 @@ export default function Page() {
         iconOne={CircleHelp}
         iconTwo={CircleCheck}
         />
-        <Partners />
+      <Partners />
       <Faq />
       <Footer />
     </div>

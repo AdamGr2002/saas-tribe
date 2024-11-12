@@ -26,7 +26,7 @@ export default function FeatureThree({
               </div>
 
               {/* Features Grid */}
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+              <div className="grid grid-row-1 md:grid-row-2 gap-12 mx-auto">
                   {/* Feature 1 */}
                   <div className="group hover:bg-gray-900/50 p-8 rounded-lg transition-all duration-300">
                       <div className="mb-6">
