@@ -5,7 +5,7 @@ export default function Faq() {
             <div className="max-w-6xl mx-auto mb-16">
                 <h4 className="text-sm font-bold text-blue-600 tracking-widest uppercase text-center mb-4">FAQ</h4>
                 <h2 className="text-center text-white text-4xl font-bold mb-6">What you should know</h2>
-                <p className="text-center text-gray-400 text-lg max-w-2xl mx-auto">
+                <p className="text-center text-white text-lg max-w-2xl mx-auto">
                     Check out the key features of our template. They can help you create your first-class project
                 </p>
             </div>
@@ -22,8 +22,8 @@ export default function Faq() {
                     </div>
                     <div>
                         <h4 className="text-xl font-bold text-white mb-4">Cross Platform</h4>
-                        <p className="text-gray-400 leading-relaxed">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, dignissimos. Neque eos, dignissimos provident reiciendis debitis.
+                        <p className="text-white leading-relaxed">
+                            Are you most often visited from mobile devices? No problem, our template is fully responsive.
                         </p>
                     </div>
                 </div>
@@ -37,8 +37,8 @@ export default function Faq() {
                     </div>
                     <div>
                         <h4 className="text-xl font-bold text-white mb-4">Customize it</h4>
-                        <p className="text-gray-400 leading-relaxed">
-                            Flexible pricing options available to suit your needs. Choose from monthly or annual plans with different feature sets.
+                        <p className="text-white leading-relaxed">
+                            Customize our template for as you wish! Advanced editing features will help you make it unique.
                         </p>
                     </div>
                 </div>
@@ -52,8 +52,8 @@ export default function Faq() {
                     </div>
                     <div>
                         <h4 className="text-xl font-bold text-white mb-4">Documentation</h4>
-                        <p className="text-gray-400 leading-relaxed">
-                            We implement industry-standard security measures to protect your data. Regular backups and encryption ensure safety.
+                        <p className="text-white leading-relaxed">
+                            We have prepared good documentation for our template! You can find the components you need.
                         </p>
                     </div>
                 </div>
@@ -67,8 +67,8 @@ export default function Faq() {
                     </div>
                     <div>
                         <h4 className="text-xl font-bold text-white mb-4">Chat Bots</h4>
-                        <p className="text-gray-400 leading-relaxed">
-                            Yes, you can cancel your subscription at any time. No long-term contracts required, flexible terms available.
+                        <p className="text-white leading-relaxed">
+                            AI powered chatbots to improve your business and customer satisfaction.
                         </p>
                     </div>
                 </div>
@@ -81,8 +81,8 @@ export default function Faq() {
             </div>
             <div>
                 <h4 className="text-xl font-bold text-white mb-4">Knowledge Base</h4>
-                <p className="text-gray-400 leading-relaxed">
-                    We maintain a 99.9% uptime guarantee with continuous monitoring and instant incident response for maximum reliability.
+                <p className="text-white leading-relaxed">
+                    Create and publish answers for customers and reduce your customer support volume by at least 20%.
                 </p>
             </div>
         </div>
@@ -96,8 +96,8 @@ export default function Faq() {
             </div>
             <div>
                 <h4 className="text-xl font-bold text-white mb-4">24/7 Support</h4>
-                <p className="text-gray-400 leading-relaxed">
-                    24/7 technical support available via chat, email, and phone. Our expert team is always ready to help.
+                <p className="text-white leading-relaxed">
+                    We are ready to help in solving your problem during the day and night,just create a ticket.
                 </p>
             </div>
         </div>

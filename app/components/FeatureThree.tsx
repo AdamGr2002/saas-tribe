@@ -16,12 +16,12 @@ export default function FeatureThree({
   questionTwo
 }: featureProps) {
   return (
-      <div className="bg-gray-950 py-24">
+      <div className="bg-gray-950 py-24 font-montserrat">
           <div className="max-w-7xl mx-auto px-8">
               {/* Header Section */}
               <div className="max-w-3xl mb-16">
                   <h4 className="text-sm font-bold text-blue-600 tracking-widest uppercase mb-4">Features</h4>
-                  <h2 className="text-4xl font-bold text-white mb-6">{title}</h2>
+                  <h2 className="text-4xl font-bold text-white mb-6 bg-blue-500">{title}</h2>
                   <p className="text-lg text-gray-400 leading-relaxed">{description}</p>
               </div>
 

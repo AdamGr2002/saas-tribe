@@ -31,7 +31,7 @@ export default function Partners() {
     return (
         <section className="py-16 bg-gray-950">
             <div className="container mx-auto px-4 ">
-            <h4 className="text-xl font-bold text-blue-600 tracking-widest uppercase text-center">Partners</h4>
+            <h4 className="text-sm font-bold text-blue-600 tracking-widest uppercase text-center">Partners</h4>
                 <h2 className="text-center text-3xl font-semibold text-white mb-12 font-montserrat">
                     Trusted by more than 5,000 business in 122 countries
                 </h2>

@@ -15,7 +15,7 @@ export default function FeatureOne({title, description, averageRating, support, 
               <div className="w-full md:w-1/2 space-y-6">
                   <div className="space-y-4">
                       <h4 className="text-sm font-bold text-blue-600 tracking-widest uppercase">Features</h4>
-                      <h2 className="text-4xl font-bold text-white leading-tight">{title}</h2>
+                      <h2 className="text-4xl font-bold text-white leading-tight bg-blue-500">{title}</h2>
                       <p className="text-gray-400 text-lg">{description}</p>
                   </div>
                   
@@ -36,7 +36,7 @@ export default function FeatureOne({title, description, averageRating, support, 
               </div>
 
               {/* Image */}
-              <div className="w-full md:w-1/2">
+              <div className="w-full md:w-1/3">
                   {image}
               </div>
           </div>

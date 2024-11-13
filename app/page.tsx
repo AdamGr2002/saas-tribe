@@ -28,23 +28,19 @@ export default function Page() {
         <>
             <div className="p-8 bg-gray-900 rounded-lg hover:bg-gray-800 transition-all">
                 <FaUserAlt className="w-12 h-12 text-blue-600 mb-6" />
-                <h3 className="text-xl font-bold text-white mb-4">Feature Title</h3>
-                <p className="text-gray-400">Feature description goes here explaining the benefits</p>
+                <h3 className="text-xl font-bold text-white mb-4">Slack</h3>
             </div>
             <div className="p-8 bg-gray-900 rounded-lg hover:bg-gray-800 transition-all">
                 <FaUserAlt className="w-12 h-12 text-blue-600 mb-6" />
-                <h3 className="text-xl font-bold text-white mb-4">Feature Title</h3>
-                <p className="text-gray-400">Feature description goes here explaining the benefits</p>
+                <h3 className="text-xl font-bold text-white mb-4">Segment</h3>
             </div>
             <div className="p-8 bg-gray-900 rounded-lg hover:bg-gray-800 transition-all">
                 <FaUserAlt className="w-12 h-12 text-blue-600 mb-6" />
-                <h3 className="text-xl font-bold text-white mb-4">Feature Title</h3>
-                <p className="text-gray-400">Feature description goes here explaining the benefits</p>
+                <h3 className="text-xl font-bold text-white mb-4">Salesforce</h3>
             </div>
             <div className="p-8 bg-gray-900 rounded-lg hover:bg-gray-800 transition-all">
                 <FaUserAlt className="w-12 h-12 text-blue-600 mb-6" />
-                <h3 className="text-xl font-bold text-white mb-4">Feature Title</h3>
-                <p className="text-gray-400">Feature description goes here explaining the benefits</p>
+                <h3 className="text-xl font-bold text-white mb-4">Jira</h3>
             </div>
         </>
     }

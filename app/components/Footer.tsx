@@ -6,7 +6,7 @@ export default function Footer() {
                     className="container flex flex-col flex-wrap px-5 py-24 mx-auto md:items-center lg:items-start md:flex-row md:flex-no-wrap">
                     <div className="flex-shrink-0 w-64 mx-auto text-center md:mx-0 md:text-left">
                         <a className="flex items-center justify-center font-medium text-gray-900 title-font md:justify-start">
-                            <span className="ml-2 text-2xl font-pacifico text-white">SaaSTribe</span>
+                            <span className="ml-2 text-2xl font-pacifico text-white text-left">SaaSTribe</span>
                         </a>
                         <p className="mt-2 text-sm text-white font-montserrat">Ready to help launch your project along with our well-designed pages</p>
                         <div className="mt-4">
